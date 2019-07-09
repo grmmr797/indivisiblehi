@@ -1,6 +1,6 @@
 ---
 title: News
-position: 11
+position: 10
 nav: true
 layout: default
 ---
