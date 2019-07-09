@@ -72,11 +72,11 @@ defaults:
     team-email: 
     team-slack: 
 subtitle: 
-email: 
+email: info@idhtest.org
 baseurl: 
 url: 
-twitter_username: 
-facebook_username: 
+twitter_username: "@idhtestsite"
+facebook_username: idhtestsite
 background-image: "/uploads/IB-May2017-flags.jpg"
 member-count: 2000+
 footer-title: Let's take action together.
