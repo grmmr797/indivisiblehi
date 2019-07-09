@@ -5,6 +5,7 @@ categories:
 - event
 tags:
 - elections
+- canvassing
 is featured: false
 main-image: "/uploads/yardsigns255.png"
 event-start-date: 2017-12-16 08:00:00 -08:00
