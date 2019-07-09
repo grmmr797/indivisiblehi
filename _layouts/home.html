@@ -42,19 +42,19 @@ layout: default
       <div class="col-sm-8">
           <div class="row mt-4">
               <div class="col-12 col-md-4">
-                  <a href="/actions" class="btn btn-block btn-danger">All current actions</a></br>
+                  <a href="actions" class="btn btn-block btn-danger">All current actions</a></br>
               </div>
               <div class="col-12 col-md-4">
-                  <a href="/calendar" class="btn btn-block btn-primary">All upcoming events</a></br>
+                  <a href="calendar" class="btn btn-block btn-primary">All upcoming events</a></br>
               </div>
               <div class="col-12 col-md-4">
-                  <a href="/archive" class="btn btn-block btn-secondary">Archive</a>
+                  <a href="archive" class="btn btn-block btn-secondary">Archive</a>
               </div>
           </div>
 
         <!-- Blog Posts -->
         <h3>Featured Actions, Events, and News</h3>
-        <p>Check out our <a href="/teams">teams page</a> for more upcoming events!</p>
+        <p>Check out our <a href="teams">teams page</a> for more upcoming events!</p>
         <div class="post-list">
 
           {% assign featured_posts = (site.posts|where_exp:"post","post['is featured'] == true") %}
