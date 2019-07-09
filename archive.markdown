@@ -1,8 +1,8 @@
 ---
-title: Archive
+title: News
 position: 9
-layout: default
 nav: false
+layout: default
 ---
 
 <div class="container">
@@ -17,7 +17,7 @@ nav: false
     <div class="col-sm-10 col-lg-9">
     
     
-    {% assign sorted_posts = (site.posts | sort: 'date') | reverse %}
+    {% assign sorted_posts = (site.categories.update | sort: 'date') | reverse %}
 
       {% for post in sorted_posts %}
         <hr class="mt-0 mb-2">
