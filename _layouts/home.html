@@ -62,7 +62,7 @@ layout: default
 
           {% assign posts_to_sort = featured_posts %}
           {% include sort-by-date.html %}
-          {% assign featured_posts = S_posts %}
+	  <!--{% assign featured_posts = S_posts %}-->
 
           {% assign curDate = site.time | date: '%s' %}
           {% for post in featured_posts %}
