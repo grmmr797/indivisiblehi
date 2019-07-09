@@ -18,18 +18,28 @@ Pledge here to do your part to get every voter to the polls in 2018!
 Here are the options we have at Indivisible Berkeley for your 2018 pledge:
 
 **"Every vote counts" commitments**
-- Join us on a [canvassing day trip](#canvass) to CA district 10 [2x/mo starting January]
-- Visit the high desert on a [canvassing weekend trip](#canvass) to Reno [starting late summer or fall]
-- Host or attend a [phone bank](#host-or-attend-a-phone-or-text-bank-or-a-postcard-party) [2x/mo starting January]
-- Host or attend a [text bank](#host-or-attend-a-phone-or-text-bank-or-a-postcard-party) [starting January]
-- Host or attend a [postcard party](#host-or-attend-a-phone-or-text-bank-or-a-postcard-party) to remind voters to vote [starting January]
-- [Donate to a community group](#donate-to-a-community-group) in a swing area [various options]
-- Host a [neighborhood info session](#host-an-info-session-on-the-alameda-county-sheriff) about the Alameda County Sheriff
+
+* Join us on a canvassing day trip to CA district 10 \[2x/mo starting January\]
+
+* Visit the high desert on a canvassing weekend trip to Reno \[starting late summer or fall\]
+
+* Host or attend a [phone bank](#host-or-attend-a-phone-or-text-bank-or-a-postcard-party) \[2x/mo starting January\]
+
+* Host or attend a [text bank](#host-or-attend-a-phone-or-text-bank-or-a-postcard-party) \[starting January\]
+
+* Host or attend a [postcard party](#host-or-attend-a-phone-or-text-bank-or-a-postcard-party) to remind voters to vote \[starting January\]
+
+* [Donate to a community group](#donate-to-a-community-group) in a swing area \[various options\]
+
+* Host a [neighborhood info session](#host-an-info-session-on-the-alameda-county-sheriff) about the Alameda County Sheriff
 
 **"I got your back" commitments**
-- [Pack lunches](#pack-lunches-for-canvassers) for our canvassers
-- [Drive a carpool](#drive-a-carpool-of-canvassers) for our canvassers
-- [Bring snacks or treats](#bring-snacks-to-a-local-event) to a phone bank, text bank, or postcard party
+
+* [Pack lunches](#pack-lunches-for-canvassers) for our canvassers
+
+* [Drive a carpool](#drive-a-carpool-of-canvassers) for our canvassers
+
+* [Bring snacks or treats](#bring-snacks-to-a-local-event) to a phone bank, text bank, or postcard party
 
 <link href='https://actionnetwork.org/css/style-embed-v3.css' rel='stylesheet' type='text/css' /><script src='https://actionnetwork.org/widgets/v3/form/pledge-revenge-for-the-tax-scam-in-2018?format=js&source=widget'></script><div id='can-form-area-pledge-revenge-for-the-tax-scam-in-2018' style='width: 100%'><!-- this div is the target for our HTML insertion --></div>
 
