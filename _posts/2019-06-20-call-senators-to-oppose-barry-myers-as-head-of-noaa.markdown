@@ -7,6 +7,7 @@ tags:
 - environment
 is featured: true
 event-end-date: 2019-07-15 23:59:00 -07:00
+layout: actions
 ---
 
 ### Action
