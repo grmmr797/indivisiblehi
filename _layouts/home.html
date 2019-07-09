@@ -30,7 +30,7 @@ layout: default
   <div class="container">
 
       <div class="hidden-sm-up mt-3 mb-3">
-        <a href="/join.html" class="btn btn-danger btn-block"><strong>Get Involved!</strong></a>
+        <a href="join.html" class="btn btn-danger btn-block"><strong>Get Involved!</strong></a>
         {% if site.member-count %}
         <hr>
         <h5 class="d-flex"><span class="mt-1"><strong>{{ site.member-count }} Volunteers</strong></span> <a href="mailto:?subject=Join {{ site.title | escape }}&body=Join {{ site.url }} today!" class="btn btn-sm ml-auto btn-primary"><strong>Invite Friends!</strong></a></h5>
@@ -62,7 +62,7 @@ layout: default
 
           {% assign posts_to_sort = featured_posts %}
           {% include sort-by-date.html %}
-	  <!--{% assign featured_posts = S_posts %}-->
+	  {% assign featured_posts = S_posts %}
 
           {% assign curDate = site.time | date: '%s' %}
           {% for post in featured_posts %}
@@ -121,7 +121,7 @@ layout: default
           {% endfor %}
 
           <div class="pagination">
-            <a href="/successes.html" class="btn btn-link btn-flush ml-auto">More successes &rarr;</a>
+            <a href="successes.html" class="btn btn-link btn-flush ml-auto">More successes &rarr;</a>
           </div>
 
         {% endif %}
