@@ -1,0 +1,10 @@
+---
+title: News Item
+date: 2019-07-09 15:55:00 -07:00
+categories:
+- updates
+tags:
+- elections
+---
+
+This is a sample news item
