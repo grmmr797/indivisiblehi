@@ -17,8 +17,6 @@ event-start-date: 2018-07-29 22:00:00 -07:00
 event-end-date: 2018-08-06 23:59:00 -07:00
 ---
 
-
-
 **Background**
 
 Senate Bill 100 - the California Clean Energy Bill - would make the state’s electricity mix 100% fossil free by 2045. California is already on a path to meet 50% of its electricity needs by renewable or no carbon sources by 2020 – ten years ahead of schedule.  But as our changing climate brings floods, droughts, wildfires, and sea level rise, it has never been more urgent to take bold action and complete our transition. 
