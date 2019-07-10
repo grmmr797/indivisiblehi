@@ -1,6 +1,6 @@
 ---
-title: Indivisible Test
-timezone: America/Los_Angeles
+title: Indivisible Hawaii
+timezone: Pacific/Honolulu
 collections:
   posts:
     title: Posts
@@ -72,11 +72,11 @@ defaults:
     team-email: 
     team-slack: 
 subtitle: 
-email: info@idhtest.org
+email: info@indivisiblehi.org
 baseurl: 
-url: 
-twitter_username: "@idhtestsite"
-facebook_username: idhtestsite
+url: indivisiblehi.org
+twitter_username: "@IndivisibleHI"
+facebook_username: Indivisible-Hawaii-102454510271701
 background-image: "/uploads/IB-May2017-flags.jpg"
 member-count: 2000+
 footer-title: Let's take action together.
