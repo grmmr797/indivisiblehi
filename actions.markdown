@@ -1,5 +1,5 @@
 ---
-title: Take Action
+title: Actions
 position: 7
 main-image: 
 nav: true
